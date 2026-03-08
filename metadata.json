@@ -1,0 +1,5 @@
+{
+  "name": "CanGuard: Recruitment Fraud Auditor",
+  "description": "A high-performance OSINT tool for identifying fraudulent job postings in the Canadian labor market using NOC-aligned data and municipal cross-referencing.",
+  "requestFramePermissions": []
+}
